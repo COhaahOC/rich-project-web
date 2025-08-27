@@ -1,0 +1,1 @@
+import{aO as s,D as t,J as o,E as a}from"./index-BEhJelwb.js";const n={},r={class:"about"};function c(i,e){return a(),t("div",r,[...e[0]||(e[0]=[o("h1",null,"This is an about page",-1)])])}const l=s(n,[["render",c]]);export{l as default};
